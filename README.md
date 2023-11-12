@@ -1,5 +1,5 @@
 # Wemod-Pro-Activation
-Sharing is Caring 
+Sharing is Caring (Find file in releases)
 
 ## Tutorial (Windows)
 1. Download & Install Wemod from offical website (https://www.wemod.com/)
